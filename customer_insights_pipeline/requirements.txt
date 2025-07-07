@@ -1,7 +1,0 @@
-
-pandas
-requests
-python-dotenv
-psycopg2-binary
-apache-airflow
-google-ads
